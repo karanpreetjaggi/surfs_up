@@ -12,14 +12,14 @@ We used the above mentioned tools (SQLAlchemy,SQLITE and Matplotlib along with j
 ![DecTemp](https://user-images.githubusercontent.com/76858662/109695535-01a81d80-7b5a-11eb-9296-e51fe3739e2e.PNG)
 
 ## Results
-Looking at the data, month of June has average higher temperature of 74 vs 71 in month of December. Also, June has the highest temperature of 85 and lowest temperature of 60 vs Decemeber, which has the highest temperature of 83 and lowest is 56.
+Looking at the data, month of June has average higher temperature of 74 vs 71 in month of December. Also, June has the highest temperature of 85 and lowest temperature of 64 vs Decemeber, which has the highest temperature of 83 and lowest is 56.
 
 ![June](https://user-images.githubusercontent.com/76858662/109693219-6b72f800-7b57-11eb-85c0-4ace68045eda.PNG)
 
 ![Dec](https://user-images.githubusercontent.com/76858662/109692736-dc65e000-7b56-11eb-8b10-4ca214c64ac0.PNG)
 
 ## Summary
-The max temperatures are comparable but min temperatures have a difference of 4 degree which can turn into pretty cold weather in winter. I think we should add stations to see the temperature variance for various stations and pick the best site with highest min, max and average temp.
+The max temperatures are comparable but min temperatures have a difference of 8 degree which is quite significant and can turn into pretty cold weather in winter. I think we should add stations to see the temperature variance for various stations and pick the best site with highest min, max and average temp. I also think he should look into the time of the day (morning vs afternoon vs evenings) to make an informed decision of where to open the shops and what should be the operating hours to make the most profit from his new business. 
 
 
 
